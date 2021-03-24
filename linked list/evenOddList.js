@@ -1,3 +1,6 @@
+// we re-constructed the linked list,by chaining all the odd followed by even, the odd and even are updated by .next;
+
+
 function oddEvenList(head) {
   if(head == null) return null;
   
