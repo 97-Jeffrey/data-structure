@@ -1,5 +1,5 @@
 // Given head, the head of a linked list, determine if the linked list has a cycle in it.
-// we use two pointer method see if fast and slow can catch each other, if they can, the linked list is cyclable in some positions.
+// we use two pointer method to see if fast and slow can catch each other, if they can, the linked list is cyclable in some positions.
 
 function hasCycle(head){
 
